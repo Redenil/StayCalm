@@ -1,0 +1,5 @@
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\StayCalm.BusinessServices\bin\Debug\StayCalm.BusinessServices.dll
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\StayCalm.BusinessServices\bin\Debug\StayCalm.BusinessServices.pdb
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\StayCalm.BusinessServices\obj\Debug\StayCalm.BusinessServices.csprojResolveAssemblyReference.cache
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\StayCalm.BusinessServices\obj\Debug\StayCalm.BusinessServices.dll
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\StayCalm.BusinessServices\obj\Debug\StayCalm.BusinessServices.pdb

@@ -1,0 +1,16 @@
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\bin\Debug\Resources.dll
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\bin\Debug\Resources.pdb
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\bin\Debug\ar\Resources.resources.dll
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\bin\Debug\fr\Resources.resources.dll
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\obj\Debug\Resources.Translate.resources
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\obj\Debug\Resources.Translate.ar.resources
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\obj\Debug\Resources.Translate.fr.resources
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\obj\Debug\ar\Resources.resources.dll
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\obj\Debug\fr\Resources.resources.dll
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\obj\Debug\Resources.dll
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\obj\Debug\Resources.pdb
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\bin\Debug\en\Resources.resources.dll
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\obj\Debug\Resources.Translate.en.resources
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\Resources\obj\Debug\en\Resources.resources.dll

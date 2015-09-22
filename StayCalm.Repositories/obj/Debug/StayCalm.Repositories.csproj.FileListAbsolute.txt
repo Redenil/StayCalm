@@ -1,0 +1,4 @@
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\StayCalm.Repositories\bin\Debug\StayCalm.Repositories.dll
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\StayCalm.Repositories\bin\Debug\StayCalm.Repositories.pdb
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\StayCalm.Repositories\obj\Debug\StayCalm.Repositories.dll
+C:\Users\Reda\Documents\Visual Studio 2015\Projects\StayCalm\StayCalm.Repositories\obj\Debug\StayCalm.Repositories.pdb
